@@ -1,0 +1,2 @@
+a) So that the simulation can keep running, if there is no next arrival event, the system wouldn't be able to accept any new arrivals.  
+b) Start of service should schedule an exit so once the service is done, the event actually ends.
